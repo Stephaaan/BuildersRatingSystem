@@ -1,0 +1,6 @@
+name: BuildersRatingSystem
+main: me.stewiestudio.buildersRatingSystem.Main
+version: 1.0
+commands:
+   mywl:
+      permission: whitelist.mywl
